@@ -6,3 +6,5 @@ my remote two
 
 my local three
 my remote three
+
+my local four
