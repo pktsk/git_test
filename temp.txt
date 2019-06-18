@@ -8,3 +8,4 @@ my local three
 my remote three
 
 my local four
+my remote four
