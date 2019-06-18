@@ -1,6 +1,1 @@
-this is a new way
-adfkj kasdf:
-
-This is added 
-
-added from remote 
+my local one
